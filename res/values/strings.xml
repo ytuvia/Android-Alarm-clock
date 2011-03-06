@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello</string>
+    <string name="app_name">Alarm clock</string>
+    <string name="no_alarms">No alarm defined</string>
+    <string name="menu_insert">Add Item</string>
+    <string name="menu_delete">Delete Alarm</string>
+    <string name="title">Title</string>
+    <string name="label">Label</string>
+    <string name="start">Start</string>
+    <string name="weekday">Weekdays</string>
+    <string name="repeat">Repeat</string>
+    <string name="end">End</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_alarm">Edit Alarm</string>
+    <string name="empty">Empty</string>
+    <string name="time">Time</string>
+</resources>
